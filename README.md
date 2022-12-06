@@ -1,8 +1,5 @@
 ---> ABOUT ME <---
-
-![Dev_animadoGIF](https://user-images.githubusercontent.com/81648671/206015031-2db52576-604b-4a3a-a2de-6aeebe0a02ed.gif)
-
-My name is Miguel Reis Milan Lopes
+My name is Miguel Reis Milan Lopes![Dev_animadoGIF](https://user-images.githubusercontent.com/81648671/206015031-2db52576-604b-4a3a-a2de-6aeebe0a02ed.gif)
 I'm 20 years old.
 Email: miguelreism@hotmail.com
 I'm from Brazil
