@@ -2,6 +2,7 @@
 -  My name is Miguel Reis Milan Lopes
 -  I'm 20 years old.
 -  Email: miguelreism@hotmail.com
+-  I'm from Brazil
 -  I was born and raised in the city of São Paulo.
 -  I have a passion for technology and for learning new things, especially create them.
 -  I can socialize easily and work very well both in groups and alone.
