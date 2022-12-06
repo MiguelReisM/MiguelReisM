@@ -1,4 +1,5 @@
----> ABOUT ME <---![MePointingGIF](https://user-images.githubusercontent.com/81648671/206014962-336c8163-7c19-412e-8887-b592977095b1.gif)
+---> ABOUT ME <---
+
 ![Dev_animadoGIF](https://user-images.githubusercontent.com/81648671/206015031-2db52576-604b-4a3a-a2de-6aeebe0a02ed.gif)
 
 My name is Miguel Reis Milan Lopes
