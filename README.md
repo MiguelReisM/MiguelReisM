@@ -21,3 +21,4 @@
 - Python
 - R
 - JavaScript
+- SQL
