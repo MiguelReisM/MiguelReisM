@@ -1,6 +1,6 @@
 # Hi, my name is Miguel Reis 😎
 
-- I'm 20 years old 
+- I'm 21 years old 
 - I'm from Brazil
 - I was born and raised in the city of São Paulo.
 - I have a passion for technology and for learning new things, especially create them.
@@ -9,7 +9,7 @@
 ### ACADEMIC SITUATION
 - Complete high school (Santa Virginia College).
 - Technologist's degree in Computer Technician.
-- In the process of majoring in Science of Technology at University Anhembi Morumbi (the sixth semester completed by the end of 2022), and fully graduation at the end of 2023.
+- In the process of majoring in Science of Technology at University Anhembi Morumbi (fully graduation at the end of 2023).
 
 
 ### PROGRAMMING LANGUAGES 
@@ -22,3 +22,5 @@
 - R
 - JavaScript
 - SQL
+- GIT
+- .NET
