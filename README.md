@@ -16,5 +16,5 @@
 
 ###  📫 Let's Connect!
 Feel free to reach out or collaborate on a project together:
-📧 miguelreism@hotmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/miguel-reis-10110b199/
+-📧 miguelreism@hotmail.com
+-🔗 LinkedIn: https://www.linkedin.com/in/miguel-reis-10110b199/
