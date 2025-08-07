@@ -1,4 +1,4 @@
-# Hi, my name is Miguel Reis 😎
+# Hi, my name is Miguel Reis 
 - 23 years old | 🇧🇷 São Paulo, Brazil
 - Passionate about technology, innovation, and building things that make an impact.
 
