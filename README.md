@@ -17,5 +17,5 @@
 ## 📝 Resumo em Português
  Olá! Sou o Miguel Reis, formado em Ciência da Computação e atualmente cursando MBA em Ciência de Dados e Analytics pela USP/ESALQ. Tenho paixão por tecnologia, inovação e por criar soluções que causam impacto. 
 Estou em transição da área de infraestrutura de redes para ciência de dados e inteligência artificial. 
-- Meus projetos aqui no GitHub estão, em sua maioria, em português — fique à vontade para explorá-los!
+### Meus projetos aqui no GitHub estão, em sua maioria, em português — fique à vontade para explorá-los!
 
