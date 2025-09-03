@@ -66,6 +66,6 @@ Estou em transição da área de **infraestrutura de redes** para **ciência de 
 ---
 
 ## 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-MiguelReisM-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-reis-1010b199/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-MiguelReisM-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-reis-10110b199/)
 - [![Email](https://img.shields.io/badge/Email-miguelreism@hotmail.com-333?logo=gmail&logoColor=white)](mailto:miguelreism@hotmail.com)
 
