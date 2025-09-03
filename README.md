@@ -70,7 +70,3 @@ Estou em transição da área de **infraestrutura de redes** para **ciência de 
 - [![Email](https://img.shields.io/badge/Email-miguelreism@hotmail.com-333?logo=gmail&logoColor=white)](mailto:miguelreism@hotmail.com)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelReisM&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelReisM&layout=compact&theme=tokyonight"/>
-</p>
