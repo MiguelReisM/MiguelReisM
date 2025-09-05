@@ -49,10 +49,14 @@
 - 📊 **Statistics Studies with Python** — PMF, CDF, PDF, EDA.  
   → Highlight notebook: [Chapter 3 – PMF, CDF & PDF](https://github.com/MiguelReisM/estatistica_estudos/blob/main/notebooks/03_pmf_cdf_pdf.ipynb)
 
+- 📊 **Data Science Studies with Python** — Pandas, NumPy, Matplotlib, EDA.  
+  → Highlight notebook: [EDA Básica com Pandas](https://github.com/MiguelReisM/Data_science_estudos)
+
 - 📈 **Data Dashboard with Python** — Streamlit + Plotly.  
   → Live demo: https://dashboard-dados-python-miguelm.streamlit.app/
 
 - 🐍 **Python Studies** — 100+ hands-on exercises (Curso em Vídeo + extra challenges).
+  → [100+ exercises](https://github.com/MiguelReisM/Python_estudos)
 
 ---
 
